@@ -1,8 +1,5 @@
 ### Hi! I'm Gabriel Barbosa👋
 
-- 🔭 I’m currently working at Nexxera
-- 🌱 I’m currently learning Vue.js
-
 <div>
   <a href="https://beacons.ai/gbarbosa12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbarbosa12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
